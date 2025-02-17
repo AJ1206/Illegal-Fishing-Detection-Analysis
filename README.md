@@ -59,4 +59,4 @@ We welcome contributions to the project. To contribute, follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any inquiries or questions, please contact AJ1206 at [your-email@example.com].
+For any inquiries or questions, please contact AJ1206 at [akshayjuluru004@gmail.com].
